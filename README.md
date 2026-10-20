@@ -232,7 +232,7 @@ The dataset belongs to its original source and contributors. Verify the
 source licence before redistributing raw or processed data.
 
 ## Author
-(screenshots/personal/Tomisin.jpg)
+![My Image](screenshots/personal/Tomisin.jpg)
 **Tomisin Obijole**
 
 - [GitHub](https://github.com/Tomisin510)
