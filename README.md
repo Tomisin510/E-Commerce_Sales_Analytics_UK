@@ -20,7 +20,7 @@ codes, non-merchandise entries, and exceptionally large transactions.
 
 ## Report Preview
 
-![Sales overview](screenshots/01_sales_overview.png)
+![Sales overview](screenshots/report/01_sales_overview.png)
 
 ## Business Questions
 
@@ -152,13 +152,13 @@ This is a sensitivity comparison, not a net-sales calculation.
 
 ### Additional Previews
 
-![Product performance](screenshots/02_product_performance.png)
+![Product performance](screenshots/report/02_product_performance.png)
 
-![Customer analysis](screenshots/03_customer_analysis.png)
+![Customer analysis](screenshots/report/03_customer_analysis.png)
 
-![Definitions and data quality](screenshots/04_definitions_data_quality.png)
+![Definitions and data quality](screenshots/report/04_definitions_data_quality.png)
 
-![Model relationships](screenshots/05_model_view.png)
+![Model relationships](screenshots/report/05_model_view.png)
 
 ## Run the Analysis
 
@@ -232,7 +232,7 @@ The dataset belongs to its original source and contributors. Verify the
 source licence before redistributing raw or processed data.
 
 ## Author
-
+(screenshots/personal/Tomisin.jpg)
 **Tomisin Obijole**
 
 - [GitHub](https://github.com/Tomisin510)
