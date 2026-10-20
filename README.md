@@ -233,6 +233,8 @@ source licence before redistributing raw or processed data.
 
 ## Author
 ![My Image](screenshots/personal/Tomisin.jpg)
+
+
 **Tomisin Obijole**
 
 - [GitHub](https://github.com/Tomisin510)
